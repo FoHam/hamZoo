@@ -71,8 +71,9 @@
 * AJAX : fetch API 활용 시도 중 -> 마이페이지 본문 영역
 
 --함현식--
-member_signup.html
-member_signup.js
+  -파일2
+  -member_signup.html
+  -member_signup.js
 
 member.css 마지막에
 .information {
