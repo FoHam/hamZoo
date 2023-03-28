@@ -80,4 +80,4 @@ member.css 마지막에
   font-weight: bold;
   color: #ccc;
 }
-추가해주세효
+추가해주세욥
