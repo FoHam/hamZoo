@@ -69,3 +69,15 @@
   - footer 개인정보처리방침 모달 창 구현완료, 처리방침 내용은 수정해야함
 
 * AJAX : fetch API 활용 시도 중 -> 마이페이지 본문 영역
+
+--함현식--
+member_signup.html
+member_signup.js
+
+member.css 마지막에
+.information {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #ccc;
+}
+추가해주세효
